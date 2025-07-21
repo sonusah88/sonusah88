@@ -25,7 +25,7 @@
 ---
 
 ## 📌 Featured Projects
-🔹 [Moodify – Facial Mood-Based Music Player](https://github.com/sonusah88/moodify)  
+🔹 [Moodify – Facial Mood-Based Music Player]((https://github.com/sonusah88/moodify-mood-based-Music-Player))  
 🔹 [Parent-School Communication Hub](https://github.com/sonusah88/parent-school-hub)  
 🔹 [Fitness Guru – Fitness Management System (C++)](https://github.com/sonusah88/fitness-guru)
 
